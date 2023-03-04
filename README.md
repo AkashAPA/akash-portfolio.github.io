@@ -4,7 +4,7 @@
 
   A fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://github.com/akashapa/akash-portfolio.github.io/"><strong>➥ Live Demo</strong></a>
+  <a href="https://akashapa.github.io/akash-portfolio.github.io/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
